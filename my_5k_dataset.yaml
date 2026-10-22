@@ -1,0 +1,11 @@
+names:
+- tv
+- laptop
+- cell phone
+- microwave
+- light
+nc: 5
+train: G:\Aiub-online\OneDrive - American-International-University-Bangladesh\Documents\AIUB\research\Alif_sir\Home
+  Automation\my_dataset\train\images
+val: G:\Aiub-online\OneDrive - American-International-University-Bangladesh\Documents\AIUB\research\Alif_sir\Home
+  Automation\my_dataset\val\images
