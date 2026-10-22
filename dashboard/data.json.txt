@@ -1,0 +1,5 @@
+{
+  "room_one": { "fan": 0, "light": 0, "occupancy": false },
+  "room_two": { "fan": 0, "light": 0, "occupancy": false },
+  "room_status": { "exhaust_fan": false, "gas_level": 0 }
+}

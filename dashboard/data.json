@@ -1,0 +1,17 @@
+{
+  "kitchen": {
+    "gas_level": 45,
+    "exhaust_fan": false,
+    "size_sqm": 15
+  },
+  "room_one": {
+    "fan": 0,
+    "light": 0,
+    "occupancy": false
+  },
+  "room_two": {
+    "fan": 0,
+    "light": 0,
+    "occupancy": false
+  }
+}
